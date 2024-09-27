@@ -8,4 +8,6 @@ public class Exercise11 {
         System.out.println(blackRemote.getColor());
     }
 
+
+
 }
